@@ -1,2 +1,2 @@
 
-https://sqlzoo.net/wiki/BBC_QUIZ Your score is: 7 out of 7
+https://sqlzoo.net/wiki/BBC_QUIZ Your score is: 6 out of 7
