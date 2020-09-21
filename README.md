@@ -3,7 +3,7 @@
 > # This project contains all results of Microverse database's curriculum quiz's.
 ## Please check this link to see all quiz excercise's here [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
-![screenshot](./app_screenshot.png)
+![screenshot](./nobel.png)
 
 Additional description about the project and its features.
 
