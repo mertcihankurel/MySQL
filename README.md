@@ -1,6 +1,7 @@
-# Project Name
+# MySQL
 
-> One paragraph statement about the project.
+> # This project contains all results of Microverse database's curriculum quiz's.
+## Please check this link to see all quiz excercise's here [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ![screenshot](./app_screenshot.png)
 
